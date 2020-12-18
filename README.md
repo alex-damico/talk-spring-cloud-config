@@ -33,3 +33,11 @@ Url
 ```
 http://localhost:9879/
 ```
+
+### Url
+```
+http://localhost:9879/application/common
+http://localhost:9879/application/database
+http://localhost:9879/client/database,dev
+http://localhost:9879/client/database,test
+```
