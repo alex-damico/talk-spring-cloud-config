@@ -1,0 +1,7 @@
+{
+  "msg4": "msg4 default",
+  "msg5": "msg5 default",
+  "database": {
+    "url": "url default"
+  }
+}
