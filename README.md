@@ -12,6 +12,10 @@ Url
 http://localhost:9876/
 ```
 
+```
+curl localhost:9876/actuator/refresh -d {} -H "Content-Type: application/json"
+```
+
 ## Order
 Librerie usate:
 - npm i fastify --save
