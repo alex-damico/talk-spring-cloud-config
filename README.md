@@ -15,6 +15,8 @@ http://localhost:9876/
 ## Order
 Librerie usate:
 - npm i fastify --save
+- npm i commander --save
+- npm i cloud-config-client --save
 
 Url
 ```

@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cloud-config-client": "^1.5.2",
+    "commander": "^6.2.1",
     "fastify": "^3.9.1"
   }
 }
