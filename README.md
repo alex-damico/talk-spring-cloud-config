@@ -47,3 +47,22 @@ http://localhost:9879/application/database
 http://localhost:9879/client/database,dev
 http://localhost:9879/client/database,test
 ```
+
+## RabbitMQ
+
+Start
+```
+./rabbitmq-start.sh 
+```
+
+Stop
+```
+./rabbitmq-stop.sh
+```
+
+Url con utente e password:
+```
+url: http://localhost:15672/
+user: guest
+password: guest
+```
